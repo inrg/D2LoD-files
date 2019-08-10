@@ -1,3 +1,3 @@
-<hr/>- check the original page [Glide Wrapper](http://www.svenswrapper.de/english/downloads.html)
+- check the original page [Glide Wrapper](http://www.svenswrapper.de/english/downloads.html)
 
-<hr/>- or download the files and place them into your Diablo II folder
+- or download the files (glide3x.dll, glide-init.exe, glide-readme.txt) and place them into your Diablo II folder
