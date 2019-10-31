@@ -10,10 +10,10 @@ note: 1.14b downloaders for Europe region - ...enGB
 
 - [Diablo2-LoD-1.14b.torrent](https://github.com/mf022/D2LoD-files/raw/master/D2LoD-torrent-files/Diablo2-LoD-1.14b.torrent)
 
-- [Downloader_Diablo2_enGB.exe](https://github.com/mf022/D2LoD-files/raw/master/D2LoD-torrent-files/Downloader_Diablo2-enGB.exe)
+- [Downloader_Diablo2_enGB.exe](https://github.com/mf022/D2LoD-files/raw/master/D2LoD-torrent-files/Downloader_Diablo2_enGB.exe)
 
-- [Downloader_Diablo2_Lord_of_Destruction_enGB.exe](https://github.com/mf022/D2LoD-files/raw/master/D2LoD-torrent-files/Downloader-Diablo2-Lord-of-Destruction-enGB.exe)
+- [Downloader_Diablo2_Lord_of_Destruction_enGB.exe](https://github.com/mf022/D2LoD-files/raw/master/D2LoD-torrent-files/Downloader_Diablo2_Lord_of_Destruction_enGB.exe)
 
-- [Downloader_Diablo2_enUS.exe](https://github.com/mf022/D2LoD-files/raw/master/D2LoD-torrent-files/Downloader_Diablo2-enUS.exe)
+- [Downloader_Diablo2_enUS.exe](https://github.com/mf022/D2LoD-files/raw/master/D2LoD-torrent-files/Downloader_Diablo2_enUS.exe)
 
-- [Downloader_Diablo2_Lord_of_Destruction_enUS.exe](https://github.com/mf022/D2LoD-files/raw/master/D2LoD-torrent-files/Downloader-Diablo2-Lord-of-Destruction-enUS.exe)
+- [Downloader_Diablo2_Lord_of_Destruction_enUS.exe](https://github.com/mf022/D2LoD-files/raw/master/D2LoD-torrent-files/Downloader_Diablo2_Lord_of_Destruction_enUS.exe)
