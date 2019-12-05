@@ -1,1 +1,0 @@
-Replace in Diablo II folder the default D2Client.dll and D2Win.dll with the files provided

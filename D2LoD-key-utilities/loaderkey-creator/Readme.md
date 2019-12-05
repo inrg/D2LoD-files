@@ -1,5 +1,7 @@
-    D2LoD 26 length loader cdkey creator   by Serby
--------------------------------------------------
+##  D2LoD 26 length loader cdkey creator
+by Serby
+
+---
 This version of cd-key creator is made using the setup for Diablo II made by Blizzard.
 It can be used for 26 alphanumeric characters keys.
 It works well with versions 1.13d - 1.14d D2LoD, no matter of BN update or fresh install
